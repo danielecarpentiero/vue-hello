@@ -3,7 +3,7 @@ const { createApp } = Vue
   createApp({
     data() {
       return {
-        message: 'Hello Vue!'
+        message: 'Ciao classe 110!'
       }
     }
-  }).mount('h1')
+  }).mount('.test')
